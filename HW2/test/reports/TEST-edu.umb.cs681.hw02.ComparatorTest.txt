@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs681.hw02.ComparatorTest
+Test: ParetoCompareTest() took 15 milli sec(s)
+Test: ThreeYearStreamCompareTest() took 0 milli sec(s)
+Test: YearStreamCompareTest() took 0 milli sec(s)
+Test: MileageCompareTest() took 1 milli sec(s)
+Test: PriceCompareTest() took 2 milli sec(s)
+Test: ParetoStreamCompareTest() took 1 milli sec(s)
+Test: PriceStreamCompareTest() took 1 milli sec(s)
+Test: YearCompareTest() took 1 milli sec(s)
+Test: MileageStreamCompareTest() took 0 milli sec(s)
+Tests run: 9, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 31 milli sec(s)
